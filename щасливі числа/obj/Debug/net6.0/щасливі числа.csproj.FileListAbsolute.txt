@@ -1,0 +1,28 @@
+C:\Users\Olesya\source\repos\щасливі числа\щасливі числа\bin\Debug\net6.0\щасливі числа.exe
+C:\Users\Olesya\source\repos\щасливі числа\щасливі числа\bin\Debug\net6.0\щасливі числа.deps.json
+C:\Users\Olesya\source\repos\щасливі числа\щасливі числа\bin\Debug\net6.0\щасливі числа.runtimeconfig.json
+C:\Users\Olesya\source\repos\щасливі числа\щасливі числа\bin\Debug\net6.0\щасливі числа.dll
+C:\Users\Olesya\source\repos\щасливі числа\щасливі числа\bin\Debug\net6.0\щасливі числа.pdb
+C:\Users\Olesya\source\repos\щасливі числа\щасливі числа\obj\Debug\net6.0\щасливі числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olesya\source\repos\щасливі числа\щасливі числа\obj\Debug\net6.0\щасливі числа.AssemblyInfoInputs.cache
+C:\Users\Olesya\source\repos\щасливі числа\щасливі числа\obj\Debug\net6.0\щасливі числа.AssemblyInfo.cs
+C:\Users\Olesya\source\repos\щасливі числа\щасливі числа\obj\Debug\net6.0\щасливі числа.csproj.CoreCompileInputs.cache
+C:\Users\Olesya\source\repos\щасливі числа\щасливі числа\obj\Debug\net6.0\щасливі числа.dll
+C:\Users\Olesya\source\repos\щасливі числа\щасливі числа\obj\Debug\net6.0\refint\щасливі числа.dll
+C:\Users\Olesya\source\repos\щасливі числа\щасливі числа\obj\Debug\net6.0\щасливі числа.pdb
+C:\Users\Olesya\source\repos\щасливі числа\щасливі числа\obj\Debug\net6.0\щасливі числа.genruntimeconfig.cache
+C:\Users\Olesya\source\repos\щасливі числа\щасливі числа\obj\Debug\net6.0\ref\щасливі числа.dll
+E:\visual studio\ооп\щасливі числа\щасливі числа\bin\Debug\net6.0\щасливі числа.exe
+E:\visual studio\ооп\щасливі числа\щасливі числа\bin\Debug\net6.0\щасливі числа.deps.json
+E:\visual studio\ооп\щасливі числа\щасливі числа\bin\Debug\net6.0\щасливі числа.runtimeconfig.json
+E:\visual studio\ооп\щасливі числа\щасливі числа\bin\Debug\net6.0\щасливі числа.dll
+E:\visual studio\ооп\щасливі числа\щасливі числа\bin\Debug\net6.0\щасливі числа.pdb
+E:\visual studio\ооп\щасливі числа\щасливі числа\obj\Debug\net6.0\щасливі числа.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio\ооп\щасливі числа\щасливі числа\obj\Debug\net6.0\щасливі числа.AssemblyInfoInputs.cache
+E:\visual studio\ооп\щасливі числа\щасливі числа\obj\Debug\net6.0\щасливі числа.AssemblyInfo.cs
+E:\visual studio\ооп\щасливі числа\щасливі числа\obj\Debug\net6.0\щасливі числа.csproj.CoreCompileInputs.cache
+E:\visual studio\ооп\щасливі числа\щасливі числа\obj\Debug\net6.0\щасливі числа.dll
+E:\visual studio\ооп\щасливі числа\щасливі числа\obj\Debug\net6.0\refint\щасливі числа.dll
+E:\visual studio\ооп\щасливі числа\щасливі числа\obj\Debug\net6.0\щасливі числа.pdb
+E:\visual studio\ооп\щасливі числа\щасливі числа\obj\Debug\net6.0\щасливі числа.genruntimeconfig.cache
+E:\visual studio\ооп\щасливі числа\щасливі числа\obj\Debug\net6.0\ref\щасливі числа.dll

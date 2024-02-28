@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "щасливі числа", "щасливі числа\щасливі числа.csproj", "{C918CDF0-755B-407A-B3D5-5C53306065FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EDD84189-A2F6-4B09-9490-C90F0D226EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C918CDF0-755B-407A-B3D5-5C53306065FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C918CDF0-755B-407A-B3D5-5C53306065FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C918CDF0-755B-407A-B3D5-5C53306065FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C918CDF0-755B-407A-B3D5-5C53306065FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5CD92D5-2328-4154-A19D-0C5E0EBC5435}
+	EndGlobalSection
+EndGlobal
